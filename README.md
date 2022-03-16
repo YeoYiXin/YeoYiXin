@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @YeoYiXin
-- 👀 I’m interested in learning Python, C and C++
-- 🌱 I’m currently learning Python 
-- 💞️ I’m looking to collaborate on (have not prepared a project but I will, soon)
+- 👀 I’m learning Python, C, Matlab, HTML and CSS
+- 💞️ I’m looking for HTML and CSS projects to collaborate with.
 - 📫 How to reach me:
         email account = sara.yeo.yixin@gmail.com
 
