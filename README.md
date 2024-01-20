@@ -1,5 +1,6 @@
 ### 👋 Hello, I’m Yeo Yi Xin :star:, second year Computer Science student. 
 You are welcome to look at the projects I have done before:
+- Visit my portfolio: [Website](https://yeo-yi-xin-portfolio.vercel.app/)
 - Projects using [C programming language](https://github.com/YeoYiXin/C-Programming) 
 - Projects using [ARM assembly language](https://github.com/YeoYiXin/ARM-assembly) where I learned System and Architecture 
 - I have used JAVA hardware and learned on client-server network in [Computer Fundamentals](https://github.com/YeoYiXin/Computer-Fundamentals) 
