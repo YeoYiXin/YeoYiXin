@@ -1,4 +1,4 @@
-### 👋 Hello, I’m Yeo Yi Xin :star:, second year Computer Science student. 
+### 👋 Hello, I’m Yeo Yi Xin :star:, final year Computer Science student. 
 You are welcome to look at the projects I have done before:
 - Visit my portfolio: [Website](https://yeo-yi-xin-portfolio.vercel.app/)
 - Projects using [C programming language](https://github.com/YeoYiXin/C-Programming) 
